@@ -1,0 +1,51 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyo
+*.pyd
+*.so
+build/
+dist/
+wheels/
+*.egg-info
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller
+*.spec
+*.manifest
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Configuration files with sensitive data
+.env
+.env.local
+.env.*.local
+
+# UV lock file (project-specific decision)
+# uv.lock
+.claude/settings.json

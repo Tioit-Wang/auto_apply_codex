@@ -1,0 +1,11 @@
+{
+  "check_interval": 1.0,
+  "match_threshold": 0.71,
+  "templates": [
+    {
+      "name": "image_yes1.png",
+      "path": "C:/Code/PythonProjects/auto_apply/image_yes1.png",
+      "size": "37x15"
+    }
+  ]
+}
